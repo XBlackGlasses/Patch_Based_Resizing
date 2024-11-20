@@ -4,6 +4,8 @@
 * OpenCV 3.4.13
 * OpenCV_contrib 3.4.13
 * Cplex  Community Edition 20.1 (Community) [參數限制 < 1000]
+* CGAL 4.13.1
+* OpenGL(glfw & glew)
 
 # VS setting
 
