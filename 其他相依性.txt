@@ -1,0 +1,13 @@
+opencv_world3413.lib
+opengl32.lib
+glfw3.lib 
+glew32s.lib
+
+concert.lib
+cplex2010.lib
+ilocplex.lib
+
+assimp-vc142-mtd.dll
+assimp-vc142-mt.dll
+
+(assimp debug版要把 assimp-vc142-mtd.dll、assimp-vc142-mtd.lib拉到輸出目錄下(x64/debug/))
