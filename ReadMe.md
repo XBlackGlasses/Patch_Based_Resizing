@@ -38,7 +38,7 @@
   * Two energy terms are deﬁned with an optimization solver to preserve image content.
 
     * Patch transformation constraint： The degree of deformation of the same patch should be as consistent as possible
-  * Grid orientation constraint：  make the grids keep their shapes
+    * Grid orientation constraint：  make the grids keep their shapes
     
   * **Patch transformation constraint**
 
